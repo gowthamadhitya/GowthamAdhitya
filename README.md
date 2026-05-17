@@ -85,7 +85,7 @@ My mission: architect enterprise-grade Identity Security solutions using **Micro
 
 | Badge | Certification | Issuer | Status |
 |:---:|---|---|:---:|
-| 🟣 | **SC-300** – Microsoft Identity & Access Administrator | Microsoft | 📚 Preparing |
+| 🟣 | **SC-300** – Microsoft Identity & Access Administrator | Microsoft | ✅ Active  |
 | 🔵 | **AZ-500** – Microsoft Azure Security Engineer | Microsoft | ✅ Active |
 | 🔵 | **MD-102** – Microsoft 365 Endpoint Administrator | Microsoft | ✅ Active |
 | 🔴 | **CyberArk Defender** – Privileged Access Management | CyberArk | ✅ Active |
