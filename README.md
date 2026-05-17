@@ -1,8 +1,8 @@
-[README.md](https://github.com/user-attachments/files/27866775/README.md)
+[README.md](https://github.com/user-attachments/files/27866886/README.md)
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<a href="https://github.com/GowthamAdhitya">
+<a href="https://github.com/gowthamadhitya">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Gowtham+Adhitya+%F0%9F%91%8B;IAM+%7C+Cloud+Security+%7C+Microsoft+Entra+ID" alt="Typing SVG" />
 </a>
 
@@ -11,7 +11,7 @@
 <!-- Profile Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gowtham--adhitya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-adhitya-0a403b190)
 [![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20Telangana-00897B?style=for-the-badge)](https://maps.google.com/?q=Hyderabad)
-[![Experience](https://img.shields.io/badge/IT%20Experience-10%2B%20Years-FF6B35?style=for-the-badge)](https://github.com/GowthamAdhitya)
+[![Experience](https://img.shields.io/badge/IT%20Experience-10%2B%20Years-FF6B35?style=for-the-badge)](https://github.com/gowthamadhitya)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamadhityabadugu@gmail.com)
 
 </div>
@@ -146,11 +146,11 @@ Focus Areas:
 
 <div align="center">
 
-![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowthamAdhitya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthamadhitya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamAdhitya&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamadhitya&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GowthamAdhitya&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=gowthamadhitya&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -189,7 +189,7 @@ Focus Areas:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gowtham--adhitya-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowtham-adhitya-0a403b190)
 [![Email](https://img.shields.io/badge/Gmail-gowthamadhityabadugu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamadhityabadugu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-GowthamAdhitya-181717?style=for-the-badge&logo=github)](https://github.com/GowthamAdhitya)
+[![GitHub](https://img.shields.io/badge/GitHub-gowthamadhitya-181717?style=for-the-badge&logo=github)](https://github.com/gowthamadhitya)
 
 </div>
 
@@ -199,6 +199,6 @@ Focus Areas:
 
 *"Zero Trust isn't a product. It's a mindset — verify explicitly, use least privilege, assume breach."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GowthamAdhitya.GowthamAdhitya)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gowthamadhitya.gowthamadhitya)
 
 </div>
