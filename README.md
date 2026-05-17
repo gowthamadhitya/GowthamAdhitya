@@ -1,18 +1,18 @@
-[README.md](https://github.com/user-attachments/files/27866554/README.md)
+[README.md](https://github.com/user-attachments/files/27866705/README.md)
 <div align="center">
 
 <!-- Dynamic Typing Header -->
 <a href="https://github.com/GowthamAdhitya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Gowtham+Adhitya+%F0%9F%91%8B;IAM+%7C+Identity+Security+%7C+Microsoft+Entra+ID" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Gowtham+Adhitya+%F0%9F%91%8B;IAM+%7C+Cloud+Security+%7C+Microsoft+Entra+ID" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham%20Adhitya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Location](https://img.shields.io/badge/📍-Vijayawada%2C%20Andhra%20Pradesh-00897B?style=for-the-badge)](https://maps.google.com/?q=Vijayawada)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gowtham--adhitya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-adhitya)
+[![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20Telangana-00897B?style=for-the-badge)](https://maps.google.com/?q=Hyderabad)
 [![Experience](https://img.shields.io/badge/IT%20Experience-10%2B%20Years-FF6B35?style=for-the-badge)](https://github.com/GowthamAdhitya)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamadhityabadugu@gmail.com)
 
 </div>
 
@@ -22,9 +22,9 @@
 
 > *"Identity is the new perimeter. Securing it is not a feature — it's the foundation."*
 
-I'm **Badugu Gowtham Adhitya**, a seasoned IT professional with **10+ years of experience** spanning Service Desk leadership, Infrastructure, and increasingly, **Identity & Access Management (IAM)**. I currently lead a ~60-member IT support team at **Aptimized Private Limited** while actively building deep expertise in Microsoft's IAM ecosystem.
+I'm **Badugu Gowtham Adhitya**, an **Identity and Access Management Engineer** and **Cloud Security Engineer** with **10+ years of IT experience**. I specialize in designing Conditional Access policies, configuring Privileged Identity Management, and troubleshooting complex identity incidents — having reduced escalations by **35%** in my current role.
 
-My mission: transition from IT operations leadership into **enterprise-grade Identity Security** — protecting modern organizations through Zero Trust, Conditional Access, and Privileged Identity Management.
+My mission: architect enterprise-grade Identity Security solutions using **Microsoft Entra ID**, **Azure**, and **Zero Trust** principles — protecting modern organizations at the identity layer.
 
 ---
 
@@ -55,22 +55,29 @@ My mission: transition from IT operations leadership into **enterprise-grade Ide
 
 ### ☁️ Identity & Cloud Security
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Azure%20AD-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Conditional Access](https://img.shields.io/badge/Conditional%20Access-00B294?style=for-the-badge&logo=microsoft&logoColor=white)
 ![PIM](https://img.shields.io/badge/Privileged%20Identity%20Mgmt-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![CyberArk](https://img.shields.io/badge/CyberArk-E3001B?style=for-the-badge&logoColor=white)
+
+### 🔑 Protocols & Standards
+![SAML](https://img.shields.io/badge/SAML%20SSO-FF6B35?style=for-the-badge&logo=auth0&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-003399?style=for-the-badge&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN%20%2F%20RADIUS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🖥️ Infrastructure & Networking
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20RHEL-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003399?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory%20%2F%20AD%20Connect-003399?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Graph API](https://img.shields.io/badge/Microsoft%20Graph%20API-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black)
 ![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -78,12 +85,14 @@ My mission: transition from IT operations leadership into **enterprise-grade Ide
 
 | Badge | Certification | Issuer | Status |
 |:---:|---|---|:---:|
-| 🔵 | **Microsoft 365 Endpoint Administrator Associate** | Microsoft | ✅ Active |
-| 🟠 | **CCNA** – Cisco Certified Network Associate | Cisco | ✅ Active |
+| 🟣 | **SC-300** – Microsoft Identity & Access Administrator | Microsoft | 📚 Preparing |
+| 🔵 | **AZ-500** – Microsoft Azure Security Engineer | Microsoft | ✅ Active |
+| 🔵 | **MD-102** – Microsoft 365 Endpoint Administrator | Microsoft | ✅ Active |
+| 🔴 | **CyberArk Defender** – Privileged Access Management | CyberArk | ✅ Active |
+| 🟡 | **Executive Certificate in Cyber Security** | IIT Kanpur / Simplilearn | ✅ Active |
 | 🔴 | **RHCE** – Red Hat Certified Engineer | Red Hat | ✅ Active |
 | 🔴 | **RHCSA** – Red Hat Certified System Administrator | Red Hat | ✅ Active |
-| 🟡 | **Cyber Security Certificate** | IIT Kanpur | 🔄 In Progress |
-| 🟣 | **SC-300** – Microsoft Identity & Access Admin | Microsoft | 📚 Preparing |
+| 🟠 | **CCNA** – Cisco Certified Network Administrator | Cisco | ✅ Active |
 
 ---
 
@@ -100,6 +109,7 @@ Focus Areas:
   - Conditional Access Policies (CA001 / CA002 naming convention)
   - Report-Only Mode → On Mode promotion workflow
   - Privileged Identity Management (PIM) — Just-In-Time access
+  - SAML SSO & SSPR configuration
   - Identity Protection — Risk-based Conditional Access
   - Access Reviews & Entitlement Management
   - Break-glass account configurations
@@ -109,8 +119,6 @@ Focus Areas:
 
 ## 📂 Featured Projects
 
-> *(Projects uploading soon — check back!)*
-
 | # | Project | Domain | Tools |
 |---|---------|--------|-------|
 | 1 | 🔐 Conditional Access Policy Lab | IAM | Entra ID, PIM |
@@ -118,6 +126,19 @@ Focus Areas:
 | 3 | 🔑 JIT Access with PIM | Privileged Access | Entra PIM |
 | 4 | 📋 Access Review Automation | Governance | Graph API, PowerShell |
 | 5 | 🧩 Endpoint Compliance Policies | Device Identity | Intune, Entra |
+
+---
+
+## 📊 Key Achievements
+
+```
+🏆  35% reduction in identity escalations       →  Aptimized (Entra ID / CA Policies)
+🏆  25% reduction in identity support tickets   →  Pringle Technologies (Self-Service Workflows)
+🏆  35% faster incident resolution              →  Tech Mahindra (VPN / RADIUS)
+🏆  40% reduction in repeat failures            →  Tech Mahindra (Root Cause Analysis)
+🏆  99.9% system uptime maintained              →  Cedelies (Linux / LVM / NFS)
+🏆  95%+ CSAT score sustained                   →  Tech Mahindra
+```
 
 ---
 
@@ -138,21 +159,26 @@ Focus Areas:
 ## 🗺️ My Journey
 
 ```
-2014 ──────────────────────────────────────────────────────► 2025
- │                                                             │
- ├─ IT Support Engineer (Entry Level)                         │
- │                                                             │
- ├─ Tech Mahindra — Infrastructure & Support                  │
- │                                                             │
- ├─ Cedelies Solutions — Systems & Networking                 │
- │                                                             │
- ├─ Aptimized PVT LTD — Lead Service Desk Engineer            │
- │   └── Managing ~60-member IT support team                  │
- │                                                             │
- ├─ Operations Manager @ Pringle Technologies INC             │
- │                                                             │
- └─ ► NOW: Deep-diving into IAM & Identity Security ◄──────┘
-         SC-300 | Entra ID | PIM | Zero Trust
+2014 ──────────────────────────────────────────────────────────► 2025
+ │                                                                  │
+ ├─ Oct 2014 → Cedelies Solutions Pvt. Ltd                         │
+ │   Senior Linux Support Engineer                                  │
+ │   └── Linux PAM, sudo, ACLs, LVM/NFS — 99.9% uptime            │
+ │                                                                  │
+ ├─ Jul 2018 → Tech Mahindra Limited                               │
+ │   Senior Technical Support Executive                             │
+ │   └── Verizon VPN/RADIUS, 35% faster resolution, 95%+ CSAT     │
+ │                                                                  │
+ ├─ May 2022 → Pringle Technologies INC                            │
+ │   Operations Manager (Remote)                                    │
+ │   └── M365 Multi-Tenant, AD Connect, 25% ticket reduction       │
+ │                                                                  │
+ └─ Jul 2024 → Aptimized Private Limited  ◄── CURRENT             │
+     Lead Service Desk Engineer — IAM                               │
+     └── Entra ID CA Policies, PIM, SAML SSO, SSPR                │
+         35% reduction in identity escalations                      │
+                                                                    │
+         ► SC-300 | Zero Trust | CyberArk | Azure ◄───────────────┘
 ```
 
 ---
@@ -161,9 +187,9 @@ Focus Areas:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/GowthamAdhitya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gowtham--adhitya-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gowtham-adhitya)
+[![Email](https://img.shields.io/badge/Gmail-gowthamadhityabadugu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamadhityabadugu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GowthamAdhitya-181717?style=for-the-badge&logo=github)](https://github.com/GowthamAdhitya)
 
 </div>
 
