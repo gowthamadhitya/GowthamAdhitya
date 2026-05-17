@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27866705/README.md)
+[README.md](https://github.com/user-attachments/files/27866736/README.md)
 <div align="center">
 
 <!-- Dynamic Typing Header -->
@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Profile Badges -->
-[![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/gowtham-adhitya-0a403b190)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gowtham--adhitya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-adhitya)
 [![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20Telangana-00897B?style=for-the-badge)](https://maps.google.com/?q=Hyderabad)
 [![Experience](https://img.shields.io/badge/IT%20Experience-10%2B%20Years-FF6B35?style=for-the-badge)](https://github.com/GowthamAdhitya)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamadhityabadugu@gmail.com)
