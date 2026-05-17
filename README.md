@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27866886/README.md)
+[README.md](https://github.com/user-attachments/files/27866950/README.md)
 <div align="center">
 
 <!-- Dynamic Typing Header -->
@@ -85,7 +85,7 @@ My mission: architect enterprise-grade Identity Security solutions using **Micro
 
 | Badge | Certification | Issuer | Status |
 |:---:|---|---|:---:|
-| 🟣 | **SC-300** – Microsoft Identity & Access Administrator | Microsoft | ✅ Active  |
+| 🟣 | **SC-300** – Microsoft Identity & Access Administrator | Microsoft | 📚 Preparing |
 | 🔵 | **AZ-500** – Microsoft Azure Security Engineer | Microsoft | ✅ Active |
 | 🔵 | **MD-102** – Microsoft 365 Endpoint Administrator | Microsoft | ✅ Active |
 | 🔴 | **CyberArk Defender** – Privileged Access Management | CyberArk | ✅ Active |
@@ -146,11 +146,18 @@ Focus Areas:
 
 <div align="center">
 
-![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowthamadhitya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/gowthamadhitya">
+  <img src="https://github-readme-stats.vercel.app/api?username=gowthamadhitya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamadhitya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamadhitya&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/gowthamadhitya">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamadhitya&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gowthamadhitya&theme=tokyonight&hide_border=true)
+<a href="https://github.com/gowthamadhitya">
+  <img src="https://github-profile-trophy.vercel.app/?username=gowthamadhitya&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="98%" alt="GitHub Trophy"/>
+</a>
 
 </div>
 
