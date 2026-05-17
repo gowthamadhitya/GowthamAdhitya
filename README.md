@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27866950/README.md)
+[README.md](https://github.com/user-attachments/files/27866973/README.md)
 <div align="center">
 
 <!-- Dynamic Typing Header -->
@@ -147,8 +147,12 @@ Focus Areas:
 <div align="center">
 
 <a href="https://github.com/gowthamadhitya">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowthamadhitya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamadhitya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gowthamadhitya&theme=tokyonight" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gowthamadhitya&theme=tokyonight" width="49%" alt="Top Languages"/>
+</a>
+
+<a href="https://github.com/gowthamadhitya">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthamadhitya&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph"/>
 </a>
 
 <a href="https://github.com/gowthamadhitya">
